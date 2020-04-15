@@ -1,0 +1,180 @@
+# L 		 Wrap in 1D 		 Wrap in 2D 		 Wrap in 3D
+100 		 0.167271 		 0.167828 		 0.168649
+# L 		 Wrap in 1D 		 Wrap in 2D 		 Wrap in 3D
+100 		 0.167339 		 0.167459 		 0.168878
+# L 		 Wrap in 1D 		 Wrap in 2D 		 Wrap in 3D
+100 		 0.167827 		 0.167827 		 0.168319
+# L 		 Wrap in 1D 		 Wrap in 2D 		 Wrap in 3D
+100 		 0.167433 		 0.167685 		 0.167758
+# L 		 Wrap in 1D 		 Wrap in 2D 		 Wrap in 3D
+100 		 0.167135 		 0.167706 		 0.16929
+# L 		 Wrap in 1D 		 Wrap in 2D 		 Wrap in 3D
+100 		 0.167657 		 0.167789 		 0.167834
+# L 		 Wrap in 1D 		 Wrap in 2D 		 Wrap in 3D
+100 		 0.167105 		 0.167105 		 0.168794
+# L 		 Wrap in 1D 		 Wrap in 2D 		 Wrap in 3D
+100 		 0.167417 		 0.167441 		 0.167441
+# L 		 Wrap in 1D 		 Wrap in 2D 		 Wrap in 3D
+100 		 0.167099 		 0.167936 		 0.168414
+# L 		 Wrap in 1D 		 Wrap in 2D 		 Wrap in 3D
+100 		 0.167149 		 0.167149 		 0.167952
+# L 		 Wrap in 1D 		 Wrap in 2D 		 Wrap in 3D
+100 		 0.167456 		 0.167623 		 0.167714
+# L 		 Wrap in 1D 		 Wrap in 2D 		 Wrap in 3D
+100 		 0.167326 		 0.167614 		 0.168805
+# L 		 Wrap in 1D 		 Wrap in 2D 		 Wrap in 3D
+100 		 0.167373 		 0.167373 		 0.168932
+# L 		 Wrap in 1D 		 Wrap in 2D 		 Wrap in 3D
+100 		 0.16711 		 0.167203 		 0.167203
+# L 		 Wrap in 1D 		 Wrap in 2D 		 Wrap in 3D
+100 		 0.167226 		 0.1676 		 0.169557
+# L 		 Wrap in 1D 		 Wrap in 2D 		 Wrap in 3D
+100 		 0.166886 		 0.167706 		 0.16929
+# L 		 Wrap in 1D 		 Wrap in 2D 		 Wrap in 3D
+100 		 0.167002 		 0.167199 		 0.17004
+# L 		 Wrap in 1D 		 Wrap in 2D 		 Wrap in 3D
+100 		 0.166945 		 0.167344 		 0.167664
+# L 		 Wrap in 1D 		 Wrap in 2D 		 Wrap in 3D
+100 		 0.167174 		 0.167501 		 0.167892
+# L 		 Wrap in 1D 		 Wrap in 2D 		 Wrap in 3D
+100 		 0.167239 		 0.167865 		 0.167865
+# L 		 Wrap in 1D 		 Wrap in 2D 		 Wrap in 3D
+100 		 0.167413 		 0.167906 		 0.168041
+# L 		 Wrap in 1D 		 Wrap in 2D 		 Wrap in 3D
+100 		 0.167736 		 0.167973 		 0.168309
+# L 		 Wrap in 1D 		 Wrap in 2D 		 Wrap in 3D
+100 		 0.166815 		 0.16737 		 0.168087
+# L 		 Wrap in 1D 		 Wrap in 2D 		 Wrap in 3D
+100 		 0.167536 		 0.168193 		 0.168588
+# L 		 Wrap in 1D 		 Wrap in 2D 		 Wrap in 3D
+100 		 0.167474 		 0.168004 		 0.169111
+# L 		 Wrap in 1D 		 Wrap in 2D 		 Wrap in 3D
+100 		 0.167415 		 0.167415 		 0.167415
+# L 		 Wrap in 1D 		 Wrap in 2D 		 Wrap in 3D
+100 		 0.167614 		 0.16782 		 0.168517
+# L 		 Wrap in 1D 		 Wrap in 2D 		 Wrap in 3D
+100 		 0.167589 		 0.167877 		 0.167968
+# L 		 Wrap in 1D 		 Wrap in 2D 		 Wrap in 3D
+100 		 0.167425 		 0.167611 		 0.167861
+# L 		 Wrap in 1D 		 Wrap in 2D 		 Wrap in 3D
+100 		 0.167187 		 0.16736 		 0.16736
+# L 		 Wrap in 1D 		 Wrap in 2D 		 Wrap in 3D
+100 		 0.167157 		 0.167157 		 0.167668
+# L 		 Wrap in 1D 		 Wrap in 2D 		 Wrap in 3D
+100 		 0.167363 		 0.167721 		 0.169214
+# L 		 Wrap in 1D 		 Wrap in 2D 		 Wrap in 3D
+100 		 0.167743 		 0.167743 		 0.167794
+# L 		 Wrap in 1D 		 Wrap in 2D 		 Wrap in 3D
+100 		 0.167511 		 0.167563 		 0.167864
+# L 		 Wrap in 1D 		 Wrap in 2D 		 Wrap in 3D
+100 		 0.167532 		 0.167808 		 0.168744
+# L 		 Wrap in 1D 		 Wrap in 2D 		 Wrap in 3D
+100 		 0.166649 		 0.167273 		 0.167539
+# L 		 Wrap in 1D 		 Wrap in 2D 		 Wrap in 3D
+100 		 0.167339 		 0.167339 		 0.167975
+# L 		 Wrap in 1D 		 Wrap in 2D 		 Wrap in 3D
+100 		 0.167737 		 0.167737 		 0.167737
+# L 		 Wrap in 1D 		 Wrap in 2D 		 Wrap in 3D
+100 		 0.167414 		 0.167875 		 0.17144
+# L 		 Wrap in 1D 		 Wrap in 2D 		 Wrap in 3D
+100 		 0.167512 		 0.167512 		 0.167512
+# L 		 Wrap in 1D 		 Wrap in 2D 		 Wrap in 3D
+100 		 0.166307 		 0.167297 		 0.168831
+# L 		 Wrap in 1D 		 Wrap in 2D 		 Wrap in 3D
+100 		 0.1674 		 0.167865 		 0.167865
+# L 		 Wrap in 1D 		 Wrap in 2D 		 Wrap in 3D
+100 		 0.167274 		 0.167274 		 0.167459
+ L 		 Wrap in 1D 		 Wrap in 2D 		 Wrap in 3D
+100 		 0.167189 		 0.167249 		 0.16969
+# L 		 Wrap in 1D 		 Wrap in 2D 		 Wrap in 3D
+100 		 0.167254 		 0.167254 		 0.167952
+# L 		 Wrap in 1D 		 Wrap in 2D 		 Wrap in 3D
+100 		 0.167496 		 0.167541 		 0.168488
+# L 		 Wrap in 1D 		 Wrap in 2D 		 Wrap in 3D
+100 		 0.167606 		 0.167777 		 0.167841
+# L 		 Wrap in 1D 		 Wrap in 2D 		 Wrap in 3D
+100 		 0.166809 		 0.166909 		 0.168207
+# L 		 Wrap in 1D 		 Wrap in 2D 		 Wrap in 3D
+100 		 0.167307 		 0.167801 		 0.168135
+# L 		 Wrap in 1D 		 Wrap in 2D 		 Wrap in 3D
+100 		 0.167621 		 0.167994 		 0.168658
+# L 		 Wrap in 1D 		 Wrap in 2D 		 Wrap in 3D
+100 		 0.166891 		 0.167273 		 0.168155
+# L 		 Wrap in 1D 		 Wrap in 2D 		 Wrap in 3D
+100 		 0.167148 		 0.167416 		 0.167416
+# L 		 Wrap in 1D 		 Wrap in 2D 		 Wrap in 3D
+100 		 0.167381 		 0.167436 		 0.16785
+# L 		 Wrap in 1D 		 Wrap in 2D 		 Wrap in 3D
+100 		 0.16731 		 0.167528 		 0.167736
+# L 		 Wrap in 1D 		 Wrap in 2D 		 Wrap in 3D
+100 		 0.167658 		 0.168015 		 0.168018
+# L 		 Wrap in 1D 		 Wrap in 2D 		 Wrap in 3D
+100 		 0.167316 		 0.167529 		 0.169161
+# L 		 Wrap in 1D 		 Wrap in 2D 		 Wrap in 3D
+100 		 0.167379 		 0.167379 		 0.167854
+# L 		 Wrap in 1D 		 Wrap in 2D 		 Wrap in 3D
+100 		 0.167327 		 0.167742 		 0.168235
+# L 		 Wrap in 1D 		 Wrap in 2D 		 Wrap in 3D
+100 		 0.167479 		 0.167793 		 0.167793
+# L 		 Wrap in 1D 		 Wrap in 2D 		 Wrap in 3D
+100 		 0.167277 		 0.16765 		 0.167875
+# L 		 Wrap in 1D 		 Wrap in 2D 		 Wrap in 3D
+100 		 0.167145 		 0.167509 		 0.167509
+# L 		 Wrap in 1D 		 Wrap in 2D 		 Wrap in 3D
+100 		 0.167168 		 0.167278 		 0.168493
+# L 		 Wrap in 1D 		 Wrap in 2D 		 Wrap in 3D
+100 		 0.167244 		 0.167429 		 0.167772
+# L 		 Wrap in 1D 		 Wrap in 2D 		 Wrap in 3D
+100 		 0.167536 		 0.167536 		 0.167702
+# L 		 Wrap in 1D 		 Wrap in 2D 		 Wrap in 3D
+100 		 0.167398 		 0.167472 		 0.167472
+# L 		 Wrap in 1D 		 Wrap in 2D 		 Wrap in 3D
+100 		 0.167519 		 0.167577 		 0.167989
+# L 		 Wrap in 1D 		 Wrap in 2D 		 Wrap in 3D
+100 		 0.166271 		 0.167446 		 0.167777
+# L 		 Wrap in 1D 		 Wrap in 2D 		 Wrap in 3D
+100 		 0.166794 		 0.167289 		 0.168199
+# L 		 Wrap in 1D 		 Wrap in 2D 		 Wrap in 3D
+100 		 0.167188 		 0.167888 		 0.168206
+# L 		 Wrap in 1D 		 Wrap in 2D 		 Wrap in 3D
+100 		 0.167421 		 0.167421 		 0.168503
+# L 		 Wrap in 1D 		 Wrap in 2D 		 Wrap in 3D
+100 		 0.167704 		 0.167704 		 0.167991
+# L 		 Wrap in 1D 		 Wrap in 2D 		 Wrap in 3D
+100 		 0.167704 		 0.167704 		 0.167991
+# L 		 Wrap in 1D 		 Wrap in 2D 		 Wrap in 3D
+100 		 0.167206 		 0.167417 		 0.167417
+# L 		 Wrap in 1D 		 Wrap in 2D 		 Wrap in 3D
+100 		 0.167342 		 0.167373 		 0.169372
+# L 		 Wrap in 1D 		 Wrap in 2D 		 Wrap in 3D
+100 		 0.16703 		 0.16703 		 0.168105
+# L 		 Wrap in 1D 		 Wrap in 2D 		 Wrap in 3D
+100 		 0.167558 		 0.167886 		 0.168288
+# L 		 Wrap in 1D 		 Wrap in 2D 		 Wrap in 3D
+100 		 0.167404 		 0.168449 		 0.169812
+# L 		 Wrap in 1D 		 Wrap in 2D 		 Wrap in 3D
+100 		 0.16655 		 0.167932 		 0.169076
+# L 		 Wrap in 1D 		 Wrap in 2D 		 Wrap in 3D
+100 		 0.167457 		 0.167457 		 0.167981
+# L 		 Wrap in 1D 		 Wrap in 2D 		 Wrap in 3D
+100 		 0.167256 		 0.167256 		 0.168142
+# L 		 Wrap in 1D 		 Wrap in 2D 		 Wrap in 3D
+100 		 0.167523 		 0.167621 		 0.167881
+# L 		 Wrap in 1D 		 Wrap in 2D 		 Wrap in 3D
+100 		 0.167803 		 0.167844 		 0.167966
+# L 		 Wrap in 1D 		 Wrap in 2D 		 Wrap in 3D
+100 		 0.167635 		 0.167988 		 0.16802
+# L 		 Wrap in 1D 		 Wrap in 2D 		 Wrap in 3D
+100 		 0.167173 		 0.16766 		 0.16766
+# L 		 Wrap in 1D 		 Wrap in 2D 		 Wrap in 3D
+100 		 0.167432 		 0.167722 		 0.169246
+# L 		 Wrap in 1D 		 Wrap in 2D 		 Wrap in 3D
+100 		 0.167602 		 0.167784 		 0.16898
+# L 		 Wrap in 1D 		 Wrap in 2D 		 Wrap in 3D
+100 		 0.167453 		 0.167774 		 0.167833
+# L 		 Wrap in 1D 		 Wrap in 2D 		 Wrap in 3D
+100 		 0.167685 		 0.167685 		 0.168102
+# L 		 Wrap in 1D 		 Wrap in 2D 		 Wrap in 3D
+100 		 0.167406 		 0.167632 		 0.167632
+# L 		 Wrap in 1D 		 Wrap in 2D 		 Wrap in 3D
+100 		 0.167449 		 0.167662 		 0.16767

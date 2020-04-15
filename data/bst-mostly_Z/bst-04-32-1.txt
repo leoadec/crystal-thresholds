@@ -1,0 +1,3 @@
+# mike
+# L 	 p_x 		 p_z 		 SPAM 		 trials 	 failure rate
+ 4 	 0.00032 	 0.00320 	 0.00032 	 100000 		 0.15921

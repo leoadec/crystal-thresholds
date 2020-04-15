@@ -1,0 +1,27 @@
+# ete
+# Red edge option: 0
+# Average number of black edges per face: 10.3333
+# Median number of black edges per face: 11
+# Maximum number of black edges per face: 11
+# Minimum number of black edges per face: 8
+# Average number of faces per black edge: 10.3333
+# Median number of faces per black edge: 11
+# Maximum number of faces per black edge: 11
+# Minimum number of faces per black edge: 8
+# Average number of neighbors per vertex (only black edges): 3
+# Median number of neighbors per vertex (only black edges): 3
+# Maximum number of neighbors per vertex (only black edges): 3
+# Minimum number of neighbors per vertex (only black edges): 3
+# Average number of neighbors per vertex (all edges): 3
+# Median number of neighbors per vertex (all edges): 3
+# Maximum number of neighbors per vertex (all edges): 3
+# Minimum number of neighbors per vertex (all edges): 3
+# Std deviation of the number of neighbors per vertex (all edges): 0
+# Average vertex weight: 6.79903
+# Std deviation of vertex weight: 0.100629
+# Time spent building the network: 8946.31s
+# Time spent distributing the errors: 17.72s
+# Time spent running the Blossom algorithm: 24640.6s
+# Time spent correcting the errors: 16.66s
+# L 	 p_x 		 p_z 		 SPAM 		 trials 	 failure rate
+ 10 	 0.000000 	 0.011200 	 0.000000 	 10000 		 0.184100

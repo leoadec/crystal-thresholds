@@ -1,0 +1,19 @@
+# ths
+# Average number of black edges per face: 10.6667
+# Median number of black edges per face: 10
+# Maximum number of black edges per face: 12
+# Minimum number of black edges per face: 10
+# Average number of faces per black edge: 10.6667
+# Median number of faces per black edge: 10
+# Maximum number of faces per black edge: 12
+# Minimum number of faces per black edge: 10
+# Average number of neighbors per vertex (only black edges): 3
+# Median number of neighbors per vertex (only black edges): 3
+# Maximum number of neighbors per vertex (only black edges): 3
+# Minimum number of neighbors per vertex (only black edges): 3
+# Time spent building the network: 16096.1s
+# Time spent distributing the errors: 1439.35s
+# Time spent running the Blossom algorithm: 374925s
+# Time spent correcting the errors: 287.94s
+# L 	 p_x 		 p_z 		 SPAM 		 trials 	 failure rate
+ 12 	 0.000000 	 0.010900 	 0.000000 	 100000 		 0.294660

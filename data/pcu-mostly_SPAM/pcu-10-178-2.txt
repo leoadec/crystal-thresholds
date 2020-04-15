@@ -1,0 +1,3 @@
+# pcu
+# L 	 p_x 		 p_z 		 SPAM 		 trials 	 failure rate
+ 10 	 0.00178 	 0.00178 	 0.01780 	 100000 		 0.25300
