@@ -59,3 +59,22 @@ The data at `lib/lattices` and `lib/tilings` was extracted from
 [sytre](http://rcsr.net/systre) and Gavrog.
 
 It is converted into C++ files with the Python script at `lib/src/make.py`.
+
+## Usage
+
+Call the binary that is appropriate for the lattice that you want to simulate
+with:
+```shell
+./bin/mwpm-[lattice] [L] [p_x] [p_z] [p_spam] [trials] [red_edge] > [output_file]
+```
+
+The parameters are:
+- `L` : Side size of the cluster.
+- `p_x` : X error probability.
+- `p_z` : Z error probability.
+- `p_spam` : SPAM error probability.
+- `trials` : Number of trials to run.
+- `red_edge` : One of the following: `none`, `fixed`, `sequential`, or `random`.
+
+The output is sent to `stdout`, so `> [output_file]` writes it to your desired
+location.
